@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #242424;
+  color: #fff
+}
+a {
+  text-decoration: none;
+  /* color: #F7D354; */
+  color: #ffdf00;
+  transition: .5s;
+}
+a:hover{
+  color: #b8930c;
+}
+input:focus,
+textarea:focus{
+  outline: none;
+}
